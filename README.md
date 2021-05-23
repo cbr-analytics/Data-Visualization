@@ -2,5 +2,6 @@
 
 ## Data visualization 
 
-- 1. Seaborn_exercise_1
+- 1. Seaborn Intro
+- 2. Line Chart
 
